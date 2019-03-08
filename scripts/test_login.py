@@ -5,3 +5,6 @@ class TestLogin:
     def test_hello2(self):
         print("nihao")
         assert 1
+    def test_hello3(self):
+        print("nihao")
+        assert 0
